@@ -58,8 +58,8 @@ flutter:
   uses-material-design: true
 
   assets:
-    -  c:\Users\jtw20\Documents\MAD\Classwork\CW03\_2_11partner\assets\images\heart_group.png
-    -  "C:\Users\jtw20\Documents\MAD\Classwork\CW03\_2_11partner\assets\images\heart_group_title.png"
+    -  assets\images\heart_group.png
+    -  assets\images\heart_group_title.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
